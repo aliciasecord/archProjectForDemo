@@ -1,0 +1,108 @@
+body {
+  background-color: black;
+  background-image: url(images/background.jpg);
+  color: white;
+  font-family: 'futura-pt', sans-serif;
+  }
+
+h3 {
+  font-size: 24px;
+  padding-top: 0px;
+  line-height: 0px;
+  font-weight: 700;
+}
+
+video {
+    visibility: hidden;
+    top: 5000px;
+  }
+
+.info {
+  background-color: #D6CCA9;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: solid 1px #FFF;
+  visibility: hidden;
+  width: 300px;
+  color: black;
+  font-size: 10px;
+  font-weight: 300;
+  position: absolute;
+  left: 1250px;
+  top: 100px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.planet {
+  height: auto;
+  position: absolute;
+}
+
+#sun {
+  width: 1600px;
+  height: auto;
+  position: absolute;
+  top: 800px;
+}
+
+#mercury {
+  width: 23px;
+  top: 3000px;
+  left: 10px;
+}
+
+#venus {
+  width: 53px;
+  top: 3000px;
+}
+
+#earth {
+  width: 60px;
+  top: 3000px;
+}
+
+#mars {
+  width: 53px;
+  top: 3000px;
+}
+
+#jupiter {
+  width: 200px;
+  top: 3000px;
+}
+
+#saturn {
+  width: 150px;
+  top: 3000px;
+}
+
+#uranus {
+  width: 120px;
+  top: 3000px;
+}
+
+#neptune {
+  width: 116px;
+  top: 3000px;
+}
+
+#pluto {
+  width: 23px;
+  top: 3000px;
+}
+
+/*
+mars 12
+venus 26
+earth 30
+mars 26
+jupiter 386
+saturn 396
+uranus 120
+neptune 116
+pluto 12
+*/
